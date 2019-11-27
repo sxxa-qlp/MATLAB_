@@ -5,5 +5,6 @@
 # 1、matlab的命令窗口中输入prefdir这行，显示文件具体位置，进入目录 
 # 2、替换 matlab.prf 文件 
 # 3、重启matlab，修改主题就可以完美呈现啦♪(^∇^*)
+![image](https://github.com/sxxa-qlp/MATLAB_/blob/master/Snipaste_2019-11-27_16-36-27.png)
 
 PS:其他模板：https://github.com/scottclowe/matlab-schemer/blob/master/schemes/README.md
